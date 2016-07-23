@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">UL Map</string>
+    <string name="title">Select UL Destination</string>
+    <string name="selectDestination">View Destination</string>
+    <string name="myLocation">View My Location</string>
+    <string name="action_settings">Settings</string>
+
+</resources>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+    <string name="app_name">UL Map</string>
+    <string name="title">Select UL Destination</string>
+    <string name="selectDestination">View Destination</string>
+    <string name="changeDestination">Change Destination</string>
+    <string name="myLocation">View My Location</string>
+    <string name="new_activity">DisplayMap</string>
+    <string name="title_activity_ul__map">UL_Map</string>
+    <string name="noMap">You are not on our UL campus map</string>
+    <string name="noGPS">GPS co-ordinates are not available</string>
+    <string name="yesMap">You are on our UL campus map</string>
+
+    <string name="action_settings">Use our map to find UL buildings by name. View
+        your current location on campus.</string>
+
+</resources>
+

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">UL Map</string>
+    <string name="title">Where The UL am I ?</string>
+    <string name="instructions">scroll down for full list</string>
+    <string name="showMap">Show on Map</string>
+    <string name="selectDestination">Select Destination</string>
+    <string name="refreshLocation">Refresh Location</string>
+    <string name="BlueDot">Blue Dot = </string>
+    <string name="onmap">Red dot = Your location</string>
+    <string name="offmap">You are not on our UL campus map</string>
+    <string name="nogps">GPS service is not available</string>
+    <string name="distancexy">Distance to:</string>
+    <string name="action_settings">Red dot = your location, blue = your destination</string>
+    <string name="meters"> meters</string>
+
+</resources>
